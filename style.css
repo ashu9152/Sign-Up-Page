@@ -95,8 +95,8 @@ body{
 }
 
 .form button{
-    background-color: #8e44ad;
-    border: 2px solid #8e44ad;
+    background-color: aqua;
+    border: 2px solid aqua;
     display: block;
     padding: 10px;
     color: #fff;
@@ -104,4 +104,5 @@ body{
     border-radius: 4px;
     font-family: inherit;
     width: 100%;
+    cursor: pointer;
 }
